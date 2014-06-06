@@ -3,11 +3,11 @@ Eplanwiki.Eplan.AddIn.RemovePlaceholder
 
 Eplan P8 Add-In mit einer Action zum löschen von Platzhalterobjekten mit einem bestimmten Wertesatznamen
 
-Actionname:     RemovePlaceholderWithRecord 
-Parameter:      rocordname
-Aufrufbeispiel: RemovePlaceholderWithRecord /recordname:"EEC"
-Ergebnis:       Alle Platzhalterobjekte im aktiven Projekt welche einen Wertesatz mit dem Namen EEC haben werden gelöscht.
-Hinweis:        Für das Add-In ist eine API-Lizenz nötig.
+- Actionname:     RemovePlaceholderWithRecord 
+- Parameter:      rocordname
+- Aufrufbeispiel: RemovePlaceholderWithRecord /recordname:"EEC"
+- Ergebnis:       Alle Platzhalterobjekte im aktiven Projekt welche einen Wertesatz mit dem Namen EEC haben werden gelöscht.
+- Hinweis:        Für das Add-In ist eine API-Lizenz nötig.
 
 Anleitung
 - Projekt runterladen und in Projektordner der C# IDE entpacken
