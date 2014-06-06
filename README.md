@@ -19,4 +19,4 @@ Anleitung
 
 
 !!!!ANWENDUNG AUF EIGENE GEFAHR!!!!
-Ausführung kann weder abgebrochen noch über die Rückgängig-Funktinon reversiert werden.
+Ausführung kann weder abgebrochen noch über die Rückgängig-Funktion reversiert werden.
